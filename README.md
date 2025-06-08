@@ -55,3 +55,6 @@ music-player/
 
 📸 Screenshots
 
+<img width="633" alt="Screenshot 2025-06-08 at 10 16 01 AM" src="https://github.com/user-attachments/assets/1154cb2c-a365-459c-8d23-cce0c53899f3" />
+
+
